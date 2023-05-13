@@ -9,24 +9,22 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
-
-![Primera parte de la página web]
+![Primera parte de la página web](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/de6dfeeb-12f6-4ec4-b3b1-f17987773278)
+![Primera parte de la página web pt 2](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/789006be-5e88-458d-830f-9ff507fcc712)
 
 Experiencia:
+![Experiencia](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/f7740870-dd1b-4919-b326-1ac4d52e3dbb)
 
-![Experiencia]
 
 Proyectos:
-
-![Proyectos]
+![Proyectos](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/4234ff7b-44ae-4410-b76e-b38f754a46b8)
 
 Testimonios:
+![Testimonios](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/b99c3d59-8b04-4604-a356-c4b93128fa51)
 
-![Testimonios]
 
 Contacto:
-
-![Contacto]
+![Contacto](https://github.com/HannaMayorga/HannaMayorga.github.io/assets/131729733/2fa97948-0ae0-48c2-94d7-dd977750bebd)
 
 ## Tecnologías
 
@@ -42,6 +40,9 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 ## Español
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+
+
 
 
 
